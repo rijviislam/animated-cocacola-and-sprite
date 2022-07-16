@@ -118,6 +118,7 @@ body {
 .content a {
     position: relative;
     background: #fff;
+    color: black;
     padding: 10px 20px;
     margin-top: 10px;
     border-radius: 10px;
